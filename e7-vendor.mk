@@ -1,0 +1,1 @@
+$(call inherit-product, vendor/blackview/e7/e7-vendor-blobs.mk)
